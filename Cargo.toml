@@ -1,5 +1,5 @@
 [package]
-name = "adder"
+name = "rust-basic-lesson"
 version = "0.1.0"
 edition = "2021"
 

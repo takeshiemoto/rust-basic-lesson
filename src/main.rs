@@ -5,5 +5,5 @@ mod lesson_borrowing_2;
 
 fn main() {
     // lesson_init::run();
-    lesson_1::run();
+    // lesson_1::run();
 }
