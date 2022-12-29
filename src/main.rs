@@ -6,9 +6,11 @@ mod lesson_borrowing_3;
 mod lesson_closures_1;
 mod lesson_closures_2;
 mod lesson_ownership_1;
+mod lesson_ownership_2;
 
 fn main() {
     // lesson_init::run();
     // lesson_1::run();
-    lesson_ownership_1::run2();
+    // lesson_ownership_1::run2();
+    lesson_ownership_2::run();
 }
