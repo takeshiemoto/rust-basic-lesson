@@ -15,5 +15,6 @@ fn main() {
     // lesson_1::run();
     // lesson_ownership_1::run2();
     // lesson_ownership_2::run();
-    lesson_ownership_3::run();
+    // lesson_ownership_3::run();
+    lesson_borrowing_3::run();
 }
