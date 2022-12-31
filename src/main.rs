@@ -1,5 +1,6 @@
 mod lesson_1;
 mod lesson_2;
+mod lesson_array_slice_1;
 mod lesson_borrowing_1;
 mod lesson_borrowing_2;
 mod lesson_borrowing_3;
@@ -16,5 +17,6 @@ fn main() {
     // lesson_ownership_1::run2();
     // lesson_ownership_2::run();
     // lesson_ownership_3::run();
-    lesson_borrowing_3::run();
+    // lesson_borrowing_3::run();
+    lesson_array_slice_1::run();
 }
